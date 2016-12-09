@@ -29,7 +29,7 @@
     "prism-element": "PolymerElements/prism-element#^1.0.2"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-component-page": "ryanburns23/iron-component-page",
     "test-fixture": "PolymerElements/test-fixture#^1.0.0",
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
